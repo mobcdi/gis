@@ -37,10 +37,10 @@ import datetime as dt
 def main():
     
     #Twitter API Values
-    MyConsumerKey = 'hw9b06uUbg0TjA82YArJ3jxUb'
-    MyConsumerSecret = 'lX682RJfSjRAGnYSGdeMeSqKVZkbsCwbuIhhO6mYbA09qbbw8T'
-    #MyAccessToken = '710587225-TCychzmlMfCnHNjDivmgZQ63N5ygnh0Ibp9tI2eI'
-    #MyAccessTokenSecret = 'TJudL6LaswNhwB2a5UZjFGCSdhYLQ4vG1L377bBV3S1Dg'
+    MyConsumerKey = ''
+    MyConsumerSecret = ''
+    #MyAccessToken = ''
+    #MyAccessTokenSecret = ''
     
     SentimentText ={}
     Accounts=['MRSC16','ChampionsCup','leicestertigers','munsterrugby','skysportsrugby','btsportrugby','rugbytonight']
