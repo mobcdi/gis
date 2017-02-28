@@ -1,2 +1,5 @@
-# gis
-Contains Python Code used in GIS Project
+# GIS
+Contains Python Code used in GIS Project which
+- [Scraps the websites to get lists of rugby clubs in Munster] (https://github.com/mobcdi/gis/blob/master/GISClubs.py) using BeautifulSoup and exports the contents to csv (;) delimited
+- [Creates a json file of tweets from a number of accounts](https://github.com/mobcdi/gis/blob/master/GetTweetsFromAccounts.py) using tweepy. Also creates a csv file with just `['MinedAccount', 'CreatedDate', 'Coordinates','userLocation','id', 'retweetCount','text']`
+- [Creates a json and csv file of tweets using twitter search](https://github.com/mobcdi/gis/blob/master/TweetsFromSearch.py) also using tweepy. Search strings are hard coded
